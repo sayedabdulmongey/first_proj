@@ -1,0 +1,2 @@
+print("WELCOME TO THE COMMUNITY")
+
